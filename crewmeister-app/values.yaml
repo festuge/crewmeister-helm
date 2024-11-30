@@ -1,7 +1,7 @@
 replicaCount: 2
 
 image:
-  repository: 123456789012.dkr.ecr.us-east-1.amazonaws.com/crewmeister-app
+  repository: 263226313288.dkr.ecr.eu-central-1.amazonaws.com/crewmeister
   pullPolicy: IfNotPresent
   tag: latest
 
